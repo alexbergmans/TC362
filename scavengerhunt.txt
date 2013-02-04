@@ -1,0 +1,5 @@
+1. 9096 files (entered ls -al /bin into the command bar)
+2. Process called "whoopsie" (installed htop "apt-get install htop") and used the program to see what processes were using the most memory
+3. Central Time Zone (rackspace says it's located in Dallas)
+4. 1 default group: (root) (typed groups into command bar)
+5. The output was the following sequence 0,1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,1597,2584,4181 which is also known as the Fibonacci sequence. I installed a php5 terminal interpreter for the server. But I couldn't figure out how to upload the php file onto my server... I ended up executing the file on my local machine using (php 362.php) after extracting the php file from the .tar file.
