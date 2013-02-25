@@ -1,0 +1,5 @@
+Site 1: www.alexbergmans.info
+Site 2: sub1.alexbergmans.info
+Site 3: sub2.alexbergmans.info
+
+IP Address: 198.101.240.227
